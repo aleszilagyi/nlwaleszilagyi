@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋, I'm Alexandre Szilagyi</h1>
 
-In this project, it was built a teaching and learning platform, made throughout the NextLevelWeek from RocketSeat.
+In this project, Proffy, it was built a teaching and learning platform, made throughout the NextLevelWeek from RocketSeat.
 Not in final version yet.
 
 - 🔭 I’m currently working on architecture projects
