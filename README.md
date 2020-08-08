@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Alexandre Szilagyi</h1>
 
 In this project, it was built a teaching and learning platform, made throughout the NextLevelWeek from RocketSeat.
-Still not in final version.
+Not in final version yet.
 
 - 🔭 I’m currently working on architecture projects
 - :rocket: I'm currently engaged with the Next Level Week from <a href="https://github.com/Rocketseat">@Rocketseat</a>
