@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img alt="Proffy" src=".github/proffy.png" width="100%">
+  <img alt="Proffy" src="https://github.com/aleszilagyi/proffy_nlw_02/blob/master/proffy.png" width="100%">
 </p>
 
 ## :bookmark: Sobre
