@@ -63,7 +63,7 @@ Clique aqui para abrir o layout do projeto no [Figma](https://www.figma.com/file
 <p align="center">
   <a href="#bookmark-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-stack">Stack</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#paintbrush-layout-figma">Figma Layout</a>
+  <a href="#paintbrush-Figma-Layout">Figma Layout</a>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ This application was developed in the 2nd edition of the **Next Level Week**, ev
 -  [SQLite](https://www.sqlite.org/docs.html/)
 -  [Express](https://expressjs.com/)
 
-## :paintbrush: Layout-Figma
+## :paintbrush: Figma-Layout
 
 Click to open the project's layout with [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web) made by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/). Don't Forget! You'll need a Figma profile [Figma](http://figma.com/) to check it 😉.
 
