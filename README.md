@@ -91,5 +91,5 @@ This application was developed in the 2nd edition of the **Next Level Week**, ev
 
 Click to open the project's layout with [Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/Proffy-Web) made by [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/). Don't Forget! You'll need a Figma profile [Figma](http://figma.com/) to check it 😉.
 
-<sup>README.md baseada no projeto [Proofy](https://github.com/HigorSnt/proffy) de [HigorSnt](https://github.com/HigorSnt).</sup>
-<sup><br/>Projeto desenvolvido com a tutoria de [Mayk Brito](https://github.com/maykbrito), durante a [**Next Level Week**](https://rocketseat.com.br/) da [**Rocketseat**](https://www.linkedin.com/school/rocketseat/about/)** 💜.</sup>
+<sup>README.md based on project [Proofy](https://github.com/HigorSnt/proffy), by [HigorSnt](https://github.com/HigorSnt).</sup>
+<sup><br/>Project developed with the teaching of [Mayk Brito](https://github.com/maykbrito), along [**Next Level Week**](https://rocketseat.com.br/), by [**Rocketseat**](https://www.linkedin.com/school/rocketseat/about/)** 💜.</sup>
